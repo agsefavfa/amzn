@@ -12,7 +12,7 @@ body{
 
 .main_button{
     text-align: center;
-    width: 470px;
+    width: 340px;
     margin: 10px auto 0;
     font-family: "Roboto", sans-serif;
 }
@@ -37,5 +37,9 @@ body{
 
 .amzn{
     text-align: center;
-    margin-top: 10px;
+    margin-top: 10px;   
+}
+
+.amzn a img{
+    width: 350px;
 }
